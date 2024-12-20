@@ -1,0 +1,9 @@
+selenium
+beautifulsoup4
+matplotlib
+numpy
+scipy
+cloudinary
+twilio
+python-dotenv
+azure-functions
